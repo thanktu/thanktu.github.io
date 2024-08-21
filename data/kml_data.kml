@@ -653,26 +653,3224 @@
                     <coordinates>94.509,2.704,0</coordinates>
                 </Point>
             </Placemark>
-
-            <Placemark id="2012 Dec 29 07:19:35.32 UTC">
-                <name>M 5 - 2012 Dec 29, NEAR EAST COAST OF HONSHU, JAPAN</name>
-                <magnitude>5</magnitude>
+            <Placemark id="2012 Apr 30 08:00:10.00 UTC">
+                <name>M 5.7 - 2012 Apr 30, NORTH INDIAN OCEAN</name>
+                <magnitude>5.7</magnitude>
                 <Point>
-                    <coordinates>141.025,37.064,0</coordinates>
+                    <coordinates>89.598,1.757,0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="2012 Dec 29 07:56:00.31 UTC">
-                <name>M 5 - 2012 Dec 29, BISMARCK SEA</name>
-                <magnitude>5</magnitude>
+            <Placemark id="2012 May 1 16:37:58.80 UTC">
+                <name>M 5.7 - 2012 May 1, GUERRERO, MEXICO</name>
+                <magnitude>5.7</magnitude>
                 <Point>
-                    <coordinates>148.752,-3.371,0</coordinates>
+                    <coordinates>-101.085,18.251,0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="2012 Dec 30 07:56:52.07 UTC">
-                <name>M 5 - 2012 Dec 30, SUNDA STRAIT, INDONESIA</name>
-                <magnitude>5</magnitude>
+            <Placemark id="2012 May 5 20:23:31.16 UTC">
+                <name>M 5.7 - 2012 May 5, TONGA</name>
+                <magnitude>5.7</magnitude>
                 <Point>
-                    <coordinates>105.283,-6.96,0</coordinates>
+                    <coordinates>-174.227,-21.477,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 12 23:28:43.57 UTC">
+                <name>M 5.7 - 2012 May 12, TAJIKISTAN</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>70.354,38.612,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 16 00:59:32.38 UTC">
+                <name>M 5.7 - 2012 May 16, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>149.711,-5.504,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 4 14:18:52.30 UTC">
+                <name>M 5.7 - 2012 Jun 4, FIJI REGION</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-177.919,-15.279,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 11 05:29:11.51 UTC">
+                <name>M 5.7 - 2012 Jun 11, HINDU KUSH REGION, AFGHANISTAN</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>69.351,36.023,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 15 01:14:07.52 UTC">
+                <name>M 5.7 - 2012 Jun 15, MINDANAO, PHILIPPINES</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>126.354,5.719,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 17 03:43:10.05 UTC">
+                <name>M 5.7 - 2012 Jun 17, SOLOMON ISLANDS</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>160.356,-8.511,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 22 04:31:17.30 UTC">
+                <name>M 5.7 - 2012 Jun 22, MACQUARIE ISLAND REGION</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>158.79,-54.36,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 27 06:30:59.86 UTC">
+                <name>M 5.7 - 2012 Jun 27, EL SALVADOR</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-89.967,13.834,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 2 23:31:37.91 UTC">
+                <name>M 5.7 - 2012 Jul 2, NEAR COAST OF CENTRAL PERU</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-75.598,-14.423,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 7 03:35:28.58 UTC">
+                <name>M 5.7 - 2012 Jul 7, NEW IRELAND REGION, P.N.G.</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>153.296,-4.651,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 11 02:31:16.66 UTC">
+                <name>M 5.7 - 2012 Jul 11, KURIL ISLANDS</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>151.424,45.401,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 11 11:12:40.25 UTC">
+                <name>M 5.7 - 2012 Jul 11, SOUTH OF FIJI ISLANDS</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-177.362,-26.051,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 12 14:00:34.34 UTC">
+                <name>M 5.7 - 2012 Jul 12, HINDU KUSH REGION, AFGHANISTAN</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>70.906,36.527,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 29 02:21:12.60 UTC">
+                <name>M 5.7 - 2012 Jul 29, MYANMAR</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>94.299,22.935,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 18 10:23:32.21 UTC">
+                <name>M 5.7 - 2012 Aug 18, VANUATU REGION</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>172.379,-13.504,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 18 17:45:02.27 UTC">
+                <name>M 5.7 - 2012 Aug 18, TONGA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-173.042,-15.598,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 24 04:43:48.35 UTC">
+                <name>M 5.7 - 2012 Aug 24, KERMADEC ISLANDS REGION</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-176.807,-27.311,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 3 19:44:22.36 UTC">
+                <name>M 5.7 - 2012 Sep 3, MINDANAO, PHILIPPINES</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>125.044,7.905,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 6 23:33:06.26 UTC">
+                <name>M 5.7 - 2012 Sep 6, CENTRAL EAST PACIFIC RISE</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-105.891,-4.6,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 8 06:54:18.57 UTC">
+                <name>M 5.7 - 2012 Sep 8, MARIANA ISLANDS REGION</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>145.923,21.527,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 8 20:29:31.21 UTC">
+                <name>M 5.7 - 2012 Sep 8, COSTA RICA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-85.323,10.082,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 15 16:32:21.51 UTC">
+                <name>M 5.7 - 2012 Sep 15, SOUTH OF JAVA, INDONESIA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>113.865,-10.732,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 20 21:03:42.12 UTC">
+                <name>M 5.7 - 2012 Sep 20, FIJI REGION</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-178.513,-20.757,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 3 13:32:34.94 UTC">
+                <name>M 5.7 - 2012 Oct 3, KEPULAUAN BATU, INDONESIA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>97.672,-0.429,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 5 00:19:56.96 UTC">
+                <name>M 5.7 - 2012 Oct 5, NORTHERN MID-ATLANTIC RIDGE</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-46.457,17.479,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 8 01:50:26.21 UTC">
+                <name>M 5.7 - 2012 Oct 8, ANTOFAGASTA, CHILE</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-68.165,-21.725,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 14 09:41:58.95 UTC">
+                <name>M 5.7 - 2012 Oct 14, KURIL ISLANDS</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>154.428,48.308,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 29 15:29:50.39 UTC">
+                <name>M 5.7 - 2012 Oct 29, MOLUCCA SEA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>125.185,-0.142,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 1 14:12:01.82 UTC">
+                <name>M 5.7 - 2012 Nov 1, JAVA, INDONESIA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>107.529,-6.762,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 6 01:36:21.63 UTC">
+                <name>M 5.7 - 2012 Nov 6, MINAHASA, SULAWESI, INDONESIA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>122.2,1.374,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 7 22:42:48.22 UTC">
+                <name>M 5.7 - 2012 Nov 7, OFFSHORE GUATEMALA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-92.156,13.849,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 14 05:21:42.47 UTC">
+                <name>M 5.7 - 2012 Nov 14, NEGROS, PHILIPPINES</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>122.472,9.982,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 27 02:59:06.52 UTC">
+                <name>M 5.7 - 2012 Nov 27, SERAM, INDONESIA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>129.219,-2.952,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 30 11:20:38.43 UTC">
+                <name>M 5.7 - 2012 Nov 30, TONGA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-175.595,-18.824,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 7 19:50:23.43 UTC">
+                <name>M 5.7 - 2012 Dec 7, EASTERN NEW GUINEA REG., P.N.G.</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>146.954,-7.661,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 17 17:46:46.63 UTC">
+                <name>M 5.7 - 2012 Dec 17, CENTRAL EAST PACIFIC RISE</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>-104.177,-4.028,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 23 13:31:40.76 UTC">
+                <name>M 5.7 - 2012 Dec 23, BLACK SEA, OFFSHORE GEORGIA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>41.075,42.42,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 29 07:59:41.10 UTC">
+                <name>M 5.7 - 2012 Dec 29, BISMARCK SEA</name>
+                <magnitude>5.7</magnitude>
+                <Point>
+                    <coordinates>148.899,-3.563,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 5 01:13:40.43 UTC">
+                <name>M 5.6 - 2012 Jan 5, TONGA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-173.543,-17.691,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 13 16:02:23.03 UTC">
+                <name>M 5.6 - 2012 Jan 13, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-27.073,-60.548,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 16 03:59:44.59 UTC">
+                <name>M 5.6 - 2012 Jan 16, SOUTH SHETLAND ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-56.095,-60.752,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 17 23:21:35.04 UTC">
+                <name>M 5.6 - 2012 Jan 17, COQUIMBO, CHILE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-71.499,-31.655,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 00:22:18.94 UTC">
+                <name>M 5.6 - 2012 Jan 28, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>142.211,40.177,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 04:43:41.03 UTC">
+                <name>M 5.6 - 2012 Jan 28, SOUTHERN EAST PACIFIC RISE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-110.517,-36.793,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 2 06:46:30.29 UTC">
+                <name>M 5.6 - 2012 Feb 2, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>149.774,-6.563,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 2 09:32:16.88 UTC">
+                <name>M 5.6 - 2012 Feb 2, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>149.718,-6.586,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 4 13:09:23.17 UTC">
+                <name>M 5.6 - 2012 Feb 4, SAMAR, PHILIPPINES</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>125.754,11.872,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 4 20:05:31.71 UTC">
+                <name>M 5.6 - 2012 Feb 4, VANCOUVER ISLAND, CANADA REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-127.906,48.887,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 6 04:19:59.91 UTC">
+                <name>M 5.6 - 2012 Feb 6, NEGROS- CEBU REG, PHILIPPINES</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>123.227,10.092,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 11 02:58:17.00 UTC">
+                <name>M 5.6 - 2012 Feb 11, OFFSHORE BIO-BIO, CHILE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-73.884,-37.456,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 13 21:07:02.77 UTC">
+                <name>M 5.6 - 2012 Feb 13, NORTHERN CALIFORNIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-123.79,41.143,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 20 19:09:36.29 UTC">
+                <name>M 5.6 - 2012 Feb 20, OFFSHORE CHIAPAS, MEXICO</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-92.779,14.276,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 26 05:24:59.26 UTC">
+                <name>M 5.6 - 2012 Feb 26, SOUTH OF KERMADEC ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-177.73,-32.495,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 28 15:07:35.04 UTC">
+                <name>M 5.6 - 2012 Feb 28, BONIN ISLANDS, JAPAN REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>139.391,28.2,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 29 14:32:47.83 UTC">
+                <name>M 5.6 - 2012 Feb 29, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>141.001,35.2,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 5 23:06:30.88 UTC">
+                <name>M 5.6 - 2012 Mar 5, MASBATE REGION, PHILIPPINES</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>123.7,12.354,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 7 12:00:46.01 UTC">
+                <name>M 5.6 - 2012 Mar 7, PAPUA, INDONESIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>138.888,-2.814,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 12 06:06:40.64 UTC">
+                <name>M 5.6 - 2012 Mar 12, NORTHWESTERN KASHMIR</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>73.152,36.741,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 14 10:57:40.10 UTC">
+                <name>M 5.6 - 2012 Mar 14, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>144.806,40.755,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 26 16:58:10.63 UTC">
+                <name>M 5.6 - 2012 Mar 26, SOUTHWEST INDIAN RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>60.653,-30.04,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 14 15:13:14.14 UTC">
+                <name>M 5.6 - 2012 Apr 14, KURIL ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>155.651,49.38,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 17 08:51:24.92 UTC">
+                <name>M 5.6 - 2012 Apr 17, KERMADEC ISLANDS REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-177.236,-31.894,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 22 13:11:19.70 UTC">
+                <name>M 5.6 - 2012 Apr 22, WEST OF MACQUARIE ISLAND</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>140.29,-52.867,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 23 22:40:22.44 UTC">
+                <name>M 5.6 - 2012 Apr 23, KURIL ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>154.739,48.397,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 24 09:50:58.39 UTC">
+                <name>M 5.6 - 2012 Apr 24, CARLSBERG RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>61.511,5.649,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 24 15:15:38.16 UTC">
+                <name>M 5.6 - 2012 Apr 24, SOUTH OF TONGA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-175.95,-24.228,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 26 19:21:42.61 UTC">
+                <name>M 5.6 - 2012 Apr 26, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>94.459,2.696,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 28 19:21:03.11 UTC">
+                <name>M 5.6 - 2012 Apr 28, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>152.11,-5.328,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 29 15:02:18.42 UTC">
+                <name>M 5.6 - 2012 Apr 29, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>142.037,39.745,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 30 07:39:45.56 UTC">
+                <name>M 5.6 - 2012 Apr 30, OFFSHORE COQUIMBO, CHILE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-71.46,-29.868,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 6 12:40:59.05 UTC">
+                <name>M 5.6 - 2012 May 6, CENTRAL PERU</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-75.801,-13.82,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 7 04:40:27.79 UTC">
+                <name>M 5.6 - 2012 May 7, AZERBAIJAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>46.789,41.549,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 20 07:19:54.88 UTC">
+                <name>M 5.6 - 2012 May 20, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>143.248,39.548,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 22 00:00:32.77 UTC">
+                <name>M 5.6 - 2012 May 22, BULGARIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>22.968,42.645,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 29 02:40:53.32 UTC">
+                <name>M 5.6 - 2012 May 29, KOMANDORSKIYE OSTROVA REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>168.925,54.368,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 31 23:01:03.36 UTC">
+                <name>M 5.6 - 2012 May 31, NEAR N COAST OF PAPUA, INDONESIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>133.181,-0.902,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 19 20:56:41.42 UTC">
+                <name>M 5.6 - 2012 Jun 19, NEAR ISLANDS, ALEUTIAN ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>171.701,53.351,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 1 04:13:52.09 UTC">
+                <name>M 5.6 - 2012 Jul 1, MYANMAR-INDIA BORDER REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>94.696,25.592,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 9 13:55:00.58 UTC">
+                <name>M 5.6 - 2012 Jul 9, EASTERN MEDITERRANEAN SEA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>28.919,35.604,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 9 19:25:07.11 UTC">
+                <name>M 5.6 - 2012 Jul 9, RYUKYU ISLANDS, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>130.099,29.381,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 16 16:33:10.08 UTC">
+                <name>M 5.6 - 2012 Jul 16, NEAR N COAST OF PAPUA, INDONESIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>137.053,-1.296,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 19 07:36:35.47 UTC">
+                <name>M 5.6 - 2012 Jul 19, HINDU KUSH REGION, AFGHANISTAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>71.375,37.248,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 20 14:03:13.76 UTC">
+                <name>M 5.6 - 2012 Jul 20, FIJI REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-179.287,-21.222,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 21 04:54:05.50 UTC">
+                <name>M 5.6 - 2012 Jul 21, EAST OF NORTH ISLAND, N.Z.</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-179.968,-37.713,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 22 07:02:13.62 UTC">
+                <name>M 5.6 - 2012 Jul 22, BISMARCK SEA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>149.532,-4.872,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 26 10:48:22.10 UTC">
+                <name>M 5.6 - 2012 Jul 26, SOUTHEAST OF LOYALTY ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>169.509,-21.103,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 29 09:20:54.98 UTC">
+                <name>M 5.6 - 2012 Jul 29, PRIMOR'YE, RUSSIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>139.073,47.379,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 9 02:34:41.12 UTC">
+                <name>M 5.6 - 2012 Aug 9, REVILLA GIGEDO ISLANDS REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-109.332,19.946,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 16 12:08:20.94 UTC">
+                <name>M 5.6 - 2012 Aug 16, CENTRAL MID-ATLANTIC RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-36.768,7.335,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 19 08:07:35.78 UTC">
+                <name>M 5.6 - 2012 Aug 19, OFF COAST OF WASHINGTON</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-128.619,47.789,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 21 17:39:38.00 UTC">
+                <name>M 5.6 - 2012 Aug 21, SOUTHWEST OF SUMATRA, INDONESIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>92.056,-0.172,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 24 10:01:53.94 UTC">
+                <name>M 5.6 - 2012 Aug 24, SOUTH OF KERMADEC ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-179.533,-33.435,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 26 11:22:22.09 UTC">
+                <name>M 5.6 - 2012 Aug 26, PACIFIC-ANTARCTIC RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-179.778,-65.478,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 30 12:18:43.09 UTC">
+                <name>M 5.6 - 2012 Aug 30, WESTERN INDIAN-ANTARCTIC RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>114.08,-50.143,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 31 23:37:58.35 UTC">
+                <name>M 5.6 - 2012 Aug 31, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>126.719,10.388,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 6 06:46:33.86 UTC">
+                <name>M 5.6 - 2012 Sep 6, PAPUA, INDONESIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>140.252,-3.661,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 11 01:28:18.80 UTC">
+                <name>M 5.6 - 2012 Sep 11, KURIL ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>151.111,45.335,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 25 03:06:53.85 UTC">
+                <name>M 5.6 - 2012 Sep 25, TONGA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-173.901,-15.517,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 7 03:14:24.00 UTC">
+                <name>M 5.6 - 2012 Oct 7, LUZON, PHILIPPINES</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>120.939,18.543,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 9 07:49:51.87 UTC">
+                <name>M 5.6 - 2012 Oct 9, NEAR N COAST OF PAPUA, INDONESIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>139.224,-2.72,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 15 01:19:03.19 UTC">
+                <name>M 5.6 - 2012 Oct 15, OFF EAST COAST OF KAMCHATKA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>159.379,51.9,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 16 12:41:25.76 UTC">
+                <name>M 5.6 - 2012 Oct 16, KURIL ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>156.438,49.618,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 16 23:42:55.69 UTC">
+                <name>M 5.6 - 2012 Oct 16, NORTH ISLAND OF NEW ZEALAND</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>176.167,-38.639,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 19 10:13:54.99 UTC">
+                <name>M 5.6 - 2012 Oct 19, MID-INDIAN RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>67.057,-9.289,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 23 09:33:19.67 UTC">
+                <name>M 5.6 - 2012 Oct 23, WEST OF MACQUARIE ISLAND</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>148.206,-57.512,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 25 10:32:28.19 UTC">
+                <name>M 5.6 - 2012 Oct 25, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>141.699,38.306,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 3 12:58:12.22 UTC">
+                <name>M 5.6 - 2012 Nov 3, CENTRAL MID-ATLANTIC RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-34.073,7.048,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 5 04:30:26.72 UTC">
+                <name>M 5.6 - 2012 Nov 5, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>143.61,37.791,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 6 01:42:26.33 UTC">
+                <name>M 5.6 - 2012 Nov 6, MINAHASA, SULAWESI, INDONESIA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>122.167,1.357,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 6 06:17:27.78 UTC">
+                <name>M 5.6 - 2012 Nov 6, CARLSBERG RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>57.203,9.963,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 7 23:42:19.46 UTC">
+                <name>M 5.6 - 2012 Nov 7, EASTERN NEW GUINEA REG., P.N.G.</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>148.034,-8.652,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 13 23:23:48.05 UTC">
+                <name>M 5.6 - 2012 Nov 13, TONGA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-175.934,-21.043,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 14 23:41:56.43 UTC">
+                <name>M 5.6 - 2012 Nov 14, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>151.341,-5.86,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 16 06:24:42.03 UTC">
+                <name>M 5.6 - 2012 Nov 16, PACIFIC-ANTARCTIC RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-134.758,-53.955,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 17 02:51:23.39 UTC">
+                <name>M 5.6 - 2012 Nov 17, VANUATU</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>167.46,-14.99,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 28 03:09:48.72 UTC">
+                <name>M 5.6 - 2012 Nov 28, NORTHERN PERU</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-76.101,-4.522,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 28 08:56:16.22 UTC">
+                <name>M 5.6 - 2012 Nov 28, BANDA SEA</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>131.134,-5.398,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 3 09:27:37.04 UTC">
+                <name>M 5.6 - 2012 Dec 3, PACIFIC-ANTARCTIC RIDGE</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>-136.244,-54.672,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 8 16:35:16.82 UTC">
+                <name>M 5.6 - 2012 Dec 8, NEAR S COAST OF NEW GUINEA, PNG.</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>143.973,-7.211,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 9 21:45:35.21 UTC">
+                <name>M 5.6 - 2012 Dec 9, MINDANAO, PHILIPPINES</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>126.166,6.703,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 17 00:28:58.80 UTC">
+                <name>M 5.6 - 2012 Dec 17, KURIL ISLANDS</name>
+                <magnitude>5.6</magnitude>
+                <Point>
+                    <coordinates>155.837,49.785,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 5 09:35:32.10 UTC">
+                <name>M 5.5 - 2012 Jan 5, DOMINICAN REPUBLIC</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-70.361,18.325,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 6 18:54:39.31 UTC">
+                <name>M 5.5 - 2012 Jan 6, CENTRAL EAST PACIFIC RISE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-107.312,-6.341,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 12 03:20:49.99 UTC">
+                <name>M 5.5 - 2012 Jan 12, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>141.071,36.994,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 12 14:11:08.43 UTC">
+                <name>M 5.5 - 2012 Jan 12, SOUTH OF AFRICA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>28.152,-52.113,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 22 06:00:05.41 UTC">
+                <name>M 5.5 - 2012 Jan 22, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-24.899,-56.655,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 24 16:31:07.79 UTC">
+                <name>M 5.5 - 2012 Jan 24, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-27.723,-56.336,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 2 17:27:06.98 UTC">
+                <name>M 5.5 - 2012 Feb 2, VANUATU</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>167.179,-17.954,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 4 21:50:50.57 UTC">
+                <name>M 5.5 - 2012 Feb 4, OWEN FRACTURE ZONE REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>57.561,13.046,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 9 08:49:25.27 UTC">
+                <name>M 5.5 - 2012 Feb 9, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-25.816,-56.383,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 11 07:06:48.45 UTC">
+                <name>M 5.5 - 2012 Feb 11, MOLUCCA SEA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>126.853,-0.978,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 14 03:27:50.50 UTC">
+                <name>M 5.5 - 2012 Feb 14, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>141.402,36.193,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 23 05:08:12.79 UTC">
+                <name>M 5.5 - 2012 Feb 23, SOUTHERN MID-ATLANTIC RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-13.193,-17.699,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 26 02:46:21.28 UTC">
+                <name>M 5.5 - 2012 Feb 26, SOUTH OF FIJI ISLANDS</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-177.5,-24.477,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 4 09:44:14.60 UTC">
+                <name>M 5.5 - 2012 Mar 4, OFF COAST OF CENTRAL AMERICA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-84.34,2.687,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 10 14:10:39.85 UTC">
+                <name>M 5.5 - 2012 Mar 10, ALASKA PENINSULA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-157.567,55.146,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 12 12:32:46.36 UTC">
+                <name>M 5.5 - 2012 Mar 12, KURIL ISLANDS</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>147.609,45.239,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 13 23:06:43.56 UTC">
+                <name>M 5.5 - 2012 Mar 13, OFFSHORE CHIAPAS, MEXICO</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-93.026,14.959,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 15 19:20:18.26 UTC">
+                <name>M 5.5 - 2012 Mar 15, NEAR S. COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>139.279,35.802,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 17 17:00:56.86 UTC">
+                <name>M 5.5 - 2012 Mar 17, CARLSBERG RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>63.404,3.823,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 24 22:18:38.25 UTC">
+                <name>M 5.5 - 2012 Mar 24, PACIFIC-ANTARCTIC RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-136.157,-54.367,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 26 17:48:42.42 UTC">
+                <name>M 5.5 - 2012 Mar 26, NORTHERN EAST PACIFIC RISE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-104.228,9.995,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 28 08:25:51.35 UTC">
+                <name>M 5.5 - 2012 Mar 28, PACIFIC-ANTARCTIC RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-140.014,-57.331,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 6 19:24:13.94 UTC">
+                <name>M 5.5 - 2012 Apr 6, KEP. MENTAWAI REGION, INDONESIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>100.426,-3.345,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 09:00:09.71 UTC">
+                <name>M 5.5 - 2012 Apr 11, ANDREANOF ISLANDS, ALEUTIAN IS.</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-176.097,51.364,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 13:58:04.72 UTC">
+                <name>M 5.5 - 2012 Apr 11, NORTH INDIAN OCEAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>90.854,1.495,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 19:04:20.01 UTC">
+                <name>M 5.5 - 2012 Apr 11, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>92.092,1.19,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 12 14:50:52.85 UTC">
+                <name>M 5.5 - 2012 Apr 12, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>141.468,37.513,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 18 05:37:55.94 UTC">
+                <name>M 5.5 - 2012 Apr 18, BONIN ISLANDS, JAPAN REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>138.772,28.689,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 24 14:57:10.11 UTC">
+                <name>M 5.5 - 2012 Apr 24, NICOBAR ISLANDS, INDIA REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>93.949,8.868,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 24 20:22:10.41 UTC">
+                <name>M 5.5 - 2012 Apr 24, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>140.472,35.622,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 30 18:11:44.42 UTC">
+                <name>M 5.5 - 2012 Apr 30, BANDA SEA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>128.511,-5.689,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 1 15:44:37.80 UTC">
+                <name>M 5.5 - 2012 May 1, OFF COAST OF BAJA CALIFORNIA SUR</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-108.44,21.951,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 2 17:06:05.53 UTC">
+                <name>M 5.5 - 2012 May 2, SOUTHEAST OF EASTER ISLAND</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-102.728,-35.883,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 9 04:35:00.11 UTC">
+                <name>M 5.5 - 2012 May 9, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>127.45,6.232,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 9 14:49:51.28 UTC">
+                <name>M 5.5 - 2012 May 9, NORTH OF ASCENSION ISLAND</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-13.6,-0.966,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 29 10:55:57.00 UTC">
+                <name>M 5.5 - 2012 May 29, NORTHERN ITALY</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>11.008,44.888,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 1 05:07:01.98 UTC">
+                <name>M 5.5 - 2012 Jun 1, ANTARCTICA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-148.864,-77.08,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 3 11:14:47.75 UTC">
+                <name>M 5.5 - 2012 Jun 3, MID-INDIAN RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>67.21,-16.235,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 6 01:08:35.52 UTC">
+                <name>M 5.5 - 2012 Jun 6, TAIWAN REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>121.428,22.357,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 12 05:59:38.69 UTC">
+                <name>M 5.5 - 2012 Jun 12, SUNDA STRAIT, INDONESIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>105.494,-5.677,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 13 07:06:44.59 UTC">
+                <name>M 5.5 - 2012 Jun 13, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-28.394,-55.796,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 14 20:17:24.52 UTC">
+                <name>M 5.5 - 2012 Jun 14, MOLUCCA SEA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>126.828,1.293,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 21 22:34:37.28 UTC">
+                <name>M 5.5 - 2012 Jun 21, FIJI REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-178.186,-17.963,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 22 02:20:06.63 UTC">
+                <name>M 5.5 - 2012 Jun 22, SOUTH OF KERMADEC ISLANDS</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-178.65,-32.935,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 23 21:27:29.60 UTC">
+                <name>M 5.5 - 2012 Jun 23, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>90.509,2.628,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 24 07:59:34.86 UTC">
+                <name>M 5.5 - 2012 Jun 24, SICHUAN-YUNNAN BORDER REG, CHINA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>100.781,27.767,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 27 20:39:15.91 UTC">
+                <name>M 5.5 - 2012 Jun 27, TONGA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-173.268,-15.222,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 30 16:24:36.99 UTC">
+                <name>M 5.5 - 2012 Jun 30, SOUTHEAST OF LOYALTY ISLANDS</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>170.992,-22.088,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 3 03:49:33.04 UTC">
+                <name>M 5.5 - 2012 Jul 3, SOLOMON ISLANDS</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>163.331,-10.82,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 12 15:40:12.63 UTC">
+                <name>M 5.5 - 2012 Jul 12, SERAM, INDONESIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>129.321,-2.885,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 16 03:08:31.72 UTC">
+                <name>M 5.5 - 2012 Jul 16, NEAR EAST COAST OF KAMCHATKA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>161.234,55.777,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 26 10:20:05.49 UTC">
+                <name>M 5.5 - 2012 Jul 26, TONGA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-174.491,-21.015,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 2 07:37:45.18 UTC">
+                <name>M 5.5 - 2012 Aug 2, KEP. TANIMBAR REGION, INDONESIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>131.121,-6.944,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 3 07:22:30.56 UTC">
+                <name>M 5.5 - 2012 Aug 3, FIJI REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-176.916,-16.919,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 12 18:31:25.11 UTC">
+                <name>M 5.5 - 2012 Aug 12, PACIFIC-ANTARCTIC RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-157.718,-63.004,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 15 23:45:52.33 UTC">
+                <name>M 5.5 - 2012 Aug 15, OFFSHORE EL SALVADOR</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-89.215,13.148,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 17 21:27:53.73 UTC">
+                <name>M 5.5 - 2012 Aug 17, NORTHERN EAST PACIFIC RISE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-103.003,8.348,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 24 07:03:10.52 UTC">
+                <name>M 5.5 - 2012 Aug 24, BALLENY ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>171.324,-63.581,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 26 20:57:58.20 UTC">
+                <name>M 5.5 - 2012 Aug 26, SOUTHERN CALIFORNIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-115.549,33.024,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 27 05:38:04.42 UTC">
+                <name>M 5.5 - 2012 Aug 27, OFFSHORE EL SALVADOR</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-88.612,12.297,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 28 06:08:16.10 UTC">
+                <name>M 5.5 - 2012 Aug 28, OFFSHORE EL SALVADOR</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-88.654,12.458,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 29 19:05:11.12 UTC">
+                <name>M 5.5 - 2012 Aug 29, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>141.814,38.425,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 1 18:01:48.20 UTC">
+                <name>M 5.5 - 2012 Sep 1, CHIAPAS, MEXICO</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-92.773,16.229,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 7 03:19:42.53 UTC">
+                <name>M 5.5 - 2012 Sep 7, SICHUAN-YUNNAN-GUIZHOU RG, CHINA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>103.983,27.575,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 9 19:23:51.01 UTC">
+                <name>M 5.5 - 2012 Sep 9, RAT ISLANDS, ALEUTIAN ISLANDS</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>175.01,52.78,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 12 03:27:46.31 UTC">
+                <name>M 5.5 - 2012 Sep 12, CRETE, GREECE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>24.11,34.783,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 13 01:54:52.64 UTC">
+                <name>M 5.5 - 2012 Sep 13, FIJI REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>175.845,-18.627,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 14 07:18:38.38 UTC">
+                <name>M 5.5 - 2012 Sep 14, SOUTHERN MID-ATLANTIC RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-16.01,-39.676,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 17 20:07:54.38 UTC">
+                <name>M 5.5 - 2012 Sep 17, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>150.119,-5.687,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 22 06:58:26.17 UTC">
+                <name>M 5.5 - 2012 Sep 22, TONGA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-174.194,-20.896,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 24 10:31:23.33 UTC">
+                <name>M 5.5 - 2012 Sep 24, TONGA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-174.292,-21.212,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 29 07:11:12.93 UTC">
+                <name>M 5.5 - 2012 Sep 29, OAXACA, MEXICO</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-98.393,16.304,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 2 19:41:29.44 UTC">
+                <name>M 5.5 - 2012 Oct 2, BALLENY ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>177.83,-64.969,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 5 18:22:56.83 UTC">
+                <name>M 5.5 - 2012 Oct 5, OFF THE COAST OF GUATEMALA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-91.504,13.028,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 5 20:02:10.66 UTC">
+                <name>M 5.5 - 2012 Oct 5, GULF OF CALIFORNIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-108.512,23.582,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 11 17:22:09.93 UTC">
+                <name>M 5.5 - 2012 Oct 11, VALPARAISO, CHILE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-70.31,-32.865,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 14 10:13:38.60 UTC">
+                <name>M 5.5 - 2012 Oct 14, AZERBAIJAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>46.405,41.825,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 14 10:41:23.26 UTC">
+                <name>M 5.5 - 2012 Oct 14, CHIAPAS, MEXICO</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-92.289,14.684,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 15 17:52:20.96 UTC">
+                <name>M 5.5 - 2012 Oct 15, GUATEMALA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-91.01,14.062,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 19 15:34:09.77 UTC">
+                <name>M 5.5 - 2012 Oct 19, KERMADEC ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-176.8,-30.809,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 21 01:25:22.59 UTC">
+                <name>M 5.5 - 2012 Oct 21, ICELAND REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-18.666,66.309,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 28 19:09:53.90 UTC">
+                <name>M 5.5 - 2012 Oct 28, QUEEN CHARLOTTE ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-132.082,52.294,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 29 06:28:33.13 UTC">
+                <name>M 5.5 - 2012 Oct 29, FLORES REGION, INDONESIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>123.465,-8.185,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 2 01:52:03.35 UTC">
+                <name>M 5.5 - 2012 Nov 2, NEAR EAST COAST OF KAMCHATKA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>162.799,55.887,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 6 11:09:31.96 UTC">
+                <name>M 5.5 - 2012 Nov 6, SOUTHEAST OF EASTER ISLAND</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-104.8,-35.465,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 11 18:19:45.08 UTC">
+                <name>M 5.5 - 2012 Nov 11, MYANMAR</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>95.866,23.132,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 15 11:22:22.26 UTC">
+                <name>M 5.5 - 2012 Nov 15, NEAR ISLANDS, ALEUTIAN ISLANDS</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>173.351,52.496,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 29 07:09:12.13 UTC">
+                <name>M 5.5 - 2012 Nov 29, NEAR COAST OF NORTHERN PERU</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-81.07,-6.588,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 29 19:32:31.75 UTC">
+                <name>M 5.5 - 2012 Nov 29, OFFSHORE GUATEMALA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-92.113,13.757,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 6 00:43:24.10 UTC">
+                <name>M 5.5 - 2012 Dec 6, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>126.638,10.974,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 7 08:48:13.04 UTC">
+                <name>M 5.5 - 2012 Dec 7, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>143.607,37.828,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 13 23:03:38.53 UTC">
+                <name>M 5.5 - 2012 Dec 13, EAST OF SEVERNAYA ZEMLYA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>121.383,80.804,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 22 16:41:45.74 UTC">
+                <name>M 5.5 - 2012 Dec 22, MYANMAR</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>94.782,22.443,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 26 23:01:56.68 UTC">
+                <name>M 5.5 - 2012 Dec 26, PACIFIC-ANTARCTIC RIDGE</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>-144.483,-56.186,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 28 17:32:18.07 UTC">
+                <name>M 5.5 - 2012 Dec 28, SULAWESI, INDONESIA</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>122.918,-0.145,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 29 17:50:52.84 UTC">
+                <name>M 5.5 - 2012 Dec 29, HINDU KUSH REGION, AFGHANISTAN</name>
+                <magnitude>5.5</magnitude>
+                <Point>
+                    <coordinates>70.599,35.711,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 7 07:31:42.70 UTC">
+                <name>M 5.4 - 2012 Jan 7, HALMAHERA, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>127.475,1.705,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 7 17:24:51.12 UTC">
+                <name>M 5.4 - 2012 Jan 7, EASTERN NEW GUINEA REG., P.N.G.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>145.214,-5.081,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 17 15:27:48.53 UTC">
+                <name>M 5.4 - 2012 Jan 17, CENTRAL EAST PACIFIC RISE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-104.146,-4.045,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 20 22:50:53.74 UTC">
+                <name>M 5.4 - 2012 Jan 20, KEPULAUAN SANGIHE, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>125.307,4.795,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 26 15:52:57.60 UTC">
+                <name>M 5.4 - 2012 Jan 26, SCOTIA SEA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-51.411,-60.582,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 18:49:01.41 UTC">
+                <name>M 5.4 - 2012 Jan 28, KERMADEC ISLANDS, NEW ZEALAND</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-177.172,-29.519,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 19:05:39.73 UTC">
+                <name>M 5.4 - 2012 Jan 28, KERMADEC ISLANDS, NEW ZEALAND</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-177.259,-29.574,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 1 07:14:29.10 UTC">
+                <name>M 5.4 - 2012 Feb 1, SOUTHERN SUMATRA, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>102.203,-3.676,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 3 06:01:38.88 UTC">
+                <name>M 5.4 - 2012 Feb 3, VANUATU</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>167.232,-17.386,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 4 04:09:33.99 UTC">
+                <name>M 5.4 - 2012 Feb 4, CENTRAL MONGOLIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>105.61,42.291,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 4 19:29:15.00 UTC">
+                <name>M 5.4 - 2012 Feb 4, SAMAR, PHILIPPINES</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>125.719,11.937,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 8 12:01:37.48 UTC">
+                <name>M 5.4 - 2012 Feb 8, NEAR WEST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>137.999,37.858,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 9 05:58:58.18 UTC">
+                <name>M 5.4 - 2012 Feb 9, BOUGAINVILLE REGION, P.N.G.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>155.72,-6.987,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 18 19:15:25.52 UTC">
+                <name>M 5.4 - 2012 Feb 18, TONGA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-173.521,-20.957,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 22 10:45:22.87 UTC">
+                <name>M 5.4 - 2012 Feb 22, KEPULAUAN KAI, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>133.565,-5.173,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 26 08:08:52.95 UTC">
+                <name>M 5.4 - 2012 Feb 26, TARAPACA, CHILE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-69.29,-18.811,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 27 05:07:48.35 UTC">
+                <name>M 5.4 - 2012 Feb 27, KURIL ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>152.74,46.922,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 27 19:31:51.72 UTC">
+                <name>M 5.4 - 2012 Feb 27, RYUKYU ISLANDS, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>127.096,25.557,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 28 22:52:37.85 UTC">
+                <name>M 5.4 - 2012 Feb 28, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>144.137,37.203,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 29 16:03:57.29 UTC">
+                <name>M 5.4 - 2012 Feb 29, VANUATU</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>168.038,-17.647,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 29 22:32:35.61 UTC">
+                <name>M 5.4 - 2012 Feb 29, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>140.448,36.427,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 2 05:09:59.40 UTC">
+                <name>M 5.4 - 2012 Mar 2, EASTERN NEW GUINEA REG., P.N.G.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>146.265,-8.048,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 5 08:12:33.65 UTC">
+                <name>M 5.4 - 2012 Mar 5, HALMAHERA, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>128.626,1.937,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 6 02:52:41.96 UTC">
+                <name>M 5.4 - 2012 Mar 6, NICOBAR ISLANDS, INDIA REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>93.691,8.571,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 7 12:02:52.29 UTC">
+                <name>M 5.4 - 2012 Mar 7, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-25.306,-57.941,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 9 17:25:33.19 UTC">
+                <name>M 5.4 - 2012 Mar 9, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>140.392,36.719,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 14 11:40:17.10 UTC">
+                <name>M 5.4 - 2012 Mar 14, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>144.848,40.905,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 19 13:49:05.25 UTC">
+                <name>M 5.4 - 2012 Mar 19, MOLUCCA SEA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>125.075,0.353,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 30 18:16:08.30 UTC">
+                <name>M 5.4 - 2012 Mar 30, OFFSHORE CHIAPAS, MEXICO</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-93.063,14.381,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 1 13:14:32.67 UTC">
+                <name>M 5.4 - 2012 Apr 1, TRISTAN DA CUNHA REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-14.877,-35.191,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 2 08:17:06.95 UTC">
+                <name>M 5.4 - 2012 Apr 2, TONGA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-173.514,-16.935,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 3 03:08:08.02 UTC">
+                <name>M 5.4 - 2012 Apr 3, NEAR COAST OF NORTHERN PERU</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-80.583,-5.18,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 3 23:42:19.37 UTC">
+                <name>M 5.4 - 2012 Apr 3, KEPULAUAN KAI, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>133.876,-5.654,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 10:36:54.28 UTC">
+                <name>M 5.4 - 2012 Apr 11, NORTH INDIAN OCEAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>91.87,1.167,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 11:29:02.49 UTC">
+                <name>M 5.4 - 2012 Apr 11, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-27.979,-56.871,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 11:34:01.33 UTC">
+                <name>M 5.4 - 2012 Apr 11, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>92.855,0.734,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 18:54:45.16 UTC">
+                <name>M 5.4 - 2012 Apr 11, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>92.694,2.475,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 22:51:57.33 UTC">
+                <name>M 5.4 - 2012 Apr 11, NORTH INDIAN OCEAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>89.556,2.865,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 14 15:21:56.33 UTC">
+                <name>M 5.4 - 2012 Apr 14, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>92.141,0.244,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 21 11:36:05.37 UTC">
+                <name>M 5.4 - 2012 Apr 21, CENTRAL PERU</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-71.481,-14.82,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 22 12:20:46.12 UTC">
+                <name>M 5.4 - 2012 Apr 22, WEST OF MACQUARIE ISLAND</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>140.329,-52.753,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 1 05:33:51.12 UTC">
+                <name>M 5.4 - 2012 May 1, VOLCANO ISLANDS, JAPAN REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>141.207,25.404,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 3 04:59:54.50 UTC">
+                <name>M 5.4 - 2012 May 3, OFF COAST OF BAJA CALIFORNIA SUR</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-108.779,21.21,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 11 12:41:35.30 UTC">
+                <name>M 5.4 - 2012 May 11, ASSAM, INDIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>92.889,26.175,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 11 18:48:29.58 UTC">
+                <name>M 5.4 - 2012 May 11, CYPRUS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>34.142,34.304,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 24 19:18:54.97 UTC">
+                <name>M 5.4 - 2012 May 24, NEUQUEN, ARGENTINA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-70.467,-36.912,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 30 21:20:56.16 UTC">
+                <name>M 5.4 - 2012 May 30, EASTERN KAZAKHSTAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>78.745,43.384,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 9 14:23:20.10 UTC">
+                <name>M 5.4 - 2012 Jun 9, KURIL ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>154.852,48.851,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 11 05:02:14.25 UTC">
+                <name>M 5.4 - 2012 Jun 11, HINDU KUSH REGION, AFGHANISTAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>69.401,36.039,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 15 08:43:32.72 UTC">
+                <name>M 5.4 - 2012 Jun 15, BISMARCK SEA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>146.309,-3.381,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 20 21:55:53.81 UTC">
+                <name>M 5.4 - 2012 Jun 20, MINAHASA, SULAWESI, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>123.426,0.102,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 20 23:20:56.03 UTC">
+                <name>M 5.4 - 2012 Jun 20, SOLOMON ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>156.998,-8.7,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 24 10:25:54.75 UTC">
+                <name>M 5.4 - 2012 Jun 24, JUJUY, ARGENTINA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-66.702,-22.445,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 26 17:19:04.15 UTC">
+                <name>M 5.4 - 2012 Jun 26, GUATEMALA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-92.049,15.378,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 1 23:39:08.77 UTC">
+                <name>M 5.4 - 2012 Jul 1, ATACAMA, CHILE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-70.878,-28.561,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 2 18:53:27.33 UTC">
+                <name>M 5.4 - 2012 Jul 2, SOUTH OF KERMADEC ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-179.342,-33.385,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 7 08:11:37.02 UTC">
+                <name>M 5.4 - 2012 Jul 7, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-27.414,-56.203,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 11 03:57:14.45 UTC">
+                <name>M 5.4 - 2012 Jul 11, TONGA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-174.678,-16.103,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 11 20:52:37.03 UTC">
+                <name>M 5.4 - 2012 Jul 11, NEAR COAST OF CENTRAL PERU</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-75.288,-15.276,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 14 04:30:58.77 UTC">
+                <name>M 5.4 - 2012 Jul 14, KURIL ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>151.316,45.516,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 14 14:22:22.56 UTC">
+                <name>M 5.4 - 2012 Jul 14, WESTERN INDIAN-ANTARCTIC RIDGE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>124.64,-49.044,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 19 05:14:27.92 UTC">
+                <name>M 5.4 - 2012 Jul 19, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-27.809,-56.038,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 20 18:14:53.26 UTC">
+                <name>M 5.4 - 2012 Jul 20, FLORES REGION, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>123.682,-8.006,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 22 05:39:13.39 UTC">
+                <name>M 5.4 - 2012 Jul 22, NEW IRELAND REGION, P.N.G.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>153.375,-4.169,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 27 03:37:56.72 UTC">
+                <name>M 5.4 - 2012 Jul 27, MARIANA ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>142.985,21.671,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 28 16:01:11.47 UTC">
+                <name>M 5.4 - 2012 Jul 28, CENTRAL MID-ATLANTIC RIDGE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-32.667,4.548,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 1 20:43:40.68 UTC">
+                <name>M 5.4 - 2012 Aug 1, NEAR N COAST OF NEW GUINEA, PNG.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>144.639,-4.39,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 3 04:08:58.27 UTC">
+                <name>M 5.4 - 2012 Aug 3, BOUGAINVILLE REGION, P.N.G.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>155.718,-6.939,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 3 11:58:58.20 UTC">
+                <name>M 5.4 - 2012 Aug 3, SANTA CRUZ ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>165.038,-11.478,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 6 18:55:13.48 UTC">
+                <name>M 5.4 - 2012 Aug 6, HALMAHERA, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>128.429,2.702,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 8 07:11:01.93 UTC">
+                <name>M 5.4 - 2012 Aug 8, NORTHEAST OF TAIWAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>124.921,25.873,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 9 15:03:05.54 UTC">
+                <name>M 5.4 - 2012 Aug 9, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-27.988,-59.762,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 13 20:32:59.28 UTC">
+                <name>M 5.4 - 2012 Aug 13, PAKISTAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>73.663,34.849,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 26 19:31:22.90 UTC">
+                <name>M 5.4 - 2012 Aug 26, SOUTHERN CALIFORNIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-115.546,33.019,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 30 10:53:58.42 UTC">
+                <name>M 5.4 - 2012 Aug 30, WESTERN INDIAN-ANTARCTIC RIDGE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>114.106,-50.211,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 31 13:27:31.99 UTC">
+                <name>M 5.4 - 2012 Aug 31, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.887,10.485,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 1 01:16:08.78 UTC">
+                <name>M 5.4 - 2012 Sep 1, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.683,10.449,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 1 01:20:38.27 UTC">
+                <name>M 5.4 - 2012 Sep 1, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.812,10.528,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 2 14:42:15.52 UTC">
+                <name>M 5.4 - 2012 Sep 2, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.652,11.308,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 4 09:58:10.97 UTC">
+                <name>M 5.4 - 2012 Sep 4, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.77,10.46,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 7 17:41:02.01 UTC">
+                <name>M 5.4 - 2012 Sep 7, SOUTH OF JAVA, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>113.833,-10.73,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 12 04:28:12.90 UTC">
+                <name>M 5.4 - 2012 Sep 12, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>152.098,-5.022,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 12 21:52:16.91 UTC">
+                <name>M 5.4 - 2012 Sep 12, SOUTH INDIAN OCEAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>82.926,-23.996,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 13 05:54:48.96 UTC">
+                <name>M 5.4 - 2012 Sep 13, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.938,10.238,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 13 23:40:02.95 UTC">
+                <name>M 5.4 - 2012 Sep 13, SOUTH OF JAVA, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>113.755,-10.768,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 21 12:17:26.16 UTC">
+                <name>M 5.4 - 2012 Sep 21, TARAPACA, CHILE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-68.961,-19.569,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 22 12:29:58.00 UTC">
+                <name>M 5.4 - 2012 Sep 22, OAXACA, MEXICO</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-98.281,16.262,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 25 18:33:01.73 UTC">
+                <name>M 5.4 - 2012 Sep 25, TONGA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-174.313,-21.192,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 30 15:35:53.73 UTC">
+                <name>M 5.4 - 2012 Sep 30, EAST OF THE VOLCANO ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>146.043,23,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 3 18:28:33.86 UTC">
+                <name>M 5.4 - 2012 Oct 3, MINDANAO, PHILIPPINES</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.95,5.858,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 4 23:14:56.40 UTC">
+                <name>M 5.4 - 2012 Oct 4, NORTHERN MID-ATLANTIC RIDGE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-46.498,17.443,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 5 00:15:41.71 UTC">
+                <name>M 5.4 - 2012 Oct 5, NORTHERN MID-ATLANTIC RIDGE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-46.453,17.501,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 7 11:42:47.16 UTC">
+                <name>M 5.4 - 2012 Oct 7, AZERBAIJAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>48.437,40.747,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 10 22:49:33.05 UTC">
+                <name>M 5.4 - 2012 Oct 10, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-26.573,-60.326,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 14 11:11:36.43 UTC">
+                <name>M 5.4 - 2012 Oct 14, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>144.333,38.215,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 16 02:03:28.76 UTC">
+                <name>M 5.4 - 2012 Oct 16, IZU ISLANDS, JAPAN REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>140.222,31.277,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 17 17:23:42.95 UTC">
+                <name>M 5.4 - 2012 Oct 17, TONGA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-174.187,-19.042,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 21 06:55:09.50 UTC">
+                <name>M 5.4 - 2012 Oct 21, CENTRAL CALIFORNIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-120.856,36.311,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 21 20:28:17.00 UTC">
+                <name>M 5.4 - 2012 Oct 21, OFFSHORE EL SALVADOR</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-88.337,12.562,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 24 17:55:59.99 UTC">
+                <name>M 5.4 - 2012 Oct 24, CAYMAN ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-81.692,17.785,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 25 20:49:35.76 UTC">
+                <name>M 5.4 - 2012 Oct 25, NORTHERN PERU</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-76.074,-5.919,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 27 20:13:03.30 UTC">
+                <name>M 5.4 - 2012 Oct 27, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>151.532,-6.141,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 28 19:03:21.85 UTC">
+                <name>M 5.4 - 2012 Oct 28, QUEEN CHARLOTTE ISLANDS REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-132.667,52.834,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Oct 29 02:22:44.50 UTC">
+                <name>M 5.4 - 2012 Oct 29, NIAS REGION, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>98.381,0.88,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 1 23:37:18.24 UTC">
+                <name>M 5.4 - 2012 Nov 1, MINAHASA, SULAWESI, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>122.105,1.229,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 4 06:37:38.26 UTC">
+                <name>M 5.4 - 2012 Nov 4, SOUTHERN PERU</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-71.878,-15.874,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 7 06:26:32.84 UTC">
+                <name>M 5.4 - 2012 Nov 7, NORTHWESTERN IRAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>46.62,38.418,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 17 18:12:19.87 UTC">
+                <name>M 5.4 - 2012 Nov 17, SOUTHEAST OF EASTER ISLAND</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-95.075,-37.209,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 17 18:43:50.65 UTC">
+                <name>M 5.4 - 2012 Nov 17, SOUTHEAST OF EASTER ISLAND</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-95.142,-37.182,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 20 16:23:24.78 UTC">
+                <name>M 5.4 - 2012 Nov 20, OFFSHORE O'HIGGINS, CHILE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-72.254,-33.921,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 21 16:46:40.13 UTC">
+                <name>M 5.4 - 2012 Nov 21, SOUTH OF SUMBAWA, INDONESIA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>117.931,-11.359,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 26 00:17:14.86 UTC">
+                <name>M 5.4 - 2012 Nov 26, CENTRAL EAST PACIFIC RISE</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-108.329,-9.098,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Nov 27 07:34:25.40 UTC">
+                <name>M 5.4 - 2012 Nov 27, ALAMAGAN REG, N. MARIANA ISLANDS</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>145.763,17.684,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 3 23:58:35.43 UTC">
+                <name>M 5.4 - 2012 Dec 3, OFFSHORE GUATEMALA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-92.372,14.16,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 12 01:44:20.69 UTC">
+                <name>M 5.4 - 2012 Dec 12, FIJI REGION</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-176.278,-19.556,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 20 21:47:29.76 UTC">
+                <name>M 5.4 - 2012 Dec 20, MOLUCCA SEA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>126.217,0.562,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 25 07:34:41.22 UTC">
+                <name>M 5.4 - 2012 Dec 25, MOLUCCA SEA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>125.464,1.109,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 27 09:41:59.69 UTC">
+                <name>M 5.4 - 2012 Dec 27, TONGA</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>-173.562,-18.302,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Dec 29 14:59:38.91 UTC">
+                <name>M 5.4 - 2012 Dec 29, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.4</magnitude>
+                <Point>
+                    <coordinates>142.024,38.738,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 1 00:50:08.04 UTC">
+                <name>M 5.3 - 2012 Jan 1, SANTA CRUZ ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>166.218,-11.366,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 5 00:54:31.11 UTC">
+                <name>M 5.3 - 2012 Jan 5, OFF COAST OF AISEN, CHILE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-76.472,-45.992,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 8 21:51:49.54 UTC">
+                <name>M 5.3 - 2012 Jan 8, VANUATU</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>167.887,-17.425,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 12 22:08:11.10 UTC">
+                <name>M 5.3 - 2012 Jan 12, SOUTH OF AFRICA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>28.196,-52.042,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 12 22:30:59.28 UTC">
+                <name>M 5.3 - 2012 Jan 12, TONGA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-173.59,-16.753,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 16 10:26:47.02 UTC">
+                <name>M 5.3 - 2012 Jan 16, MOLUCCA SEA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>125.475,-0.228,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 17 23:23:23.00 UTC">
+                <name>M 5.3 - 2012 Jan 17, OFFSHORE COQUIMBO, CHILE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-71.615,-31.728,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 18 17:01:22.37 UTC">
+                <name>M 5.3 - 2012 Jan 18, SANTA CRUZ ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>165.536,-11.018,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 18 17:02:57.42 UTC">
+                <name>M 5.3 - 2012 Jan 18, SANTA CRUZ ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>165.464,-10.999,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 26 22:04:06.91 UTC">
+                <name>M 5.3 - 2012 Jan 26, MARIANA ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>142.852,21.645,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 27 01:33:24.00 UTC">
+                <name>M 5.3 - 2012 Jan 27, DODECANESE ISLANDS, GREECE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>25.064,36.044,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 00:17:11.11 UTC">
+                <name>M 5.3 - 2012 Jan 28, CATANDUANES, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>124.586,13.386,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 17:47:35.79 UTC">
+                <name>M 5.3 - 2012 Jan 28, KERMADEC ISLANDS, NEW ZEALAND</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-177.139,-29.59,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 19:37:31.42 UTC">
+                <name>M 5.3 - 2012 Jan 28, PAPUA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>140.788,-4.081,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 29 21:43:25.09 UTC">
+                <name>M 5.3 - 2012 Jan 29, NORTHERN MID-ATLANTIC RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-46.529,16.488,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 1 01:29:24.86 UTC">
+                <name>M 5.3 - 2012 Feb 1, SANTA CRUZ ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>165.901,-10.802,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 1 04:30:47.11 UTC">
+                <name>M 5.3 - 2012 Feb 1, SAMAR, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>125.557,11.6,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 1 21:43:46.48 UTC">
+                <name>M 5.3 - 2012 Feb 1, EASTER ISLAND REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-111.525,-31.585,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 2 13:57:07.05 UTC">
+                <name>M 5.3 - 2012 Feb 2, VANUATU</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>167.176,-17.455,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 6 11:40:15.38 UTC">
+                <name>M 5.3 - 2012 Feb 6, NEGROS- CEBU REG, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>123.108,9.85,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 7 20:37:44.17 UTC">
+                <name>M 5.3 - 2012 Feb 7, NEGROS- CEBU REG, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>123.42,10.194,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 8 00:41:02.77 UTC">
+                <name>M 5.3 - 2012 Feb 8, NEGROS- CEBU REG, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>123.43,10.249,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 8 01:58:41.47 UTC">
+                <name>M 5.3 - 2012 Feb 8, KERMADEC ISLANDS, NEW ZEALAND</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-177.409,-29.455,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 14 23:39:16.42 UTC">
+                <name>M 5.3 - 2012 Feb 14, CENTRAL MID-ATLANTIC RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-29.228,0.859,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 17 14:35:42.66 UTC">
+                <name>M 5.3 - 2012 Feb 17, SOUTHEAST INDIAN RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>84.932,-42.024,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 21 13:50:42.62 UTC">
+                <name>M 5.3 - 2012 Feb 21, BERING STRAIT</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-167.057,67.744,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 22 12:02:45.51 UTC">
+                <name>M 5.3 - 2012 Feb 22, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>94.4,4.99,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 24 13:43:16.66 UTC">
+                <name>M 5.3 - 2012 Feb 24, NORTHERN COLOMBIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-72.952,6.702,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 24 19:12:20.54 UTC">
+                <name>M 5.3 - 2012 Feb 24, MOLUCCA SEA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.34,1.516,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 2 10:11:43.22 UTC">
+                <name>M 5.3 - 2012 Mar 2, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>141.043,35.16,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 3 11:01:47.25 UTC">
+                <name>M 5.3 - 2012 Mar 3, COQUIMBO, CHILE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-71.129,-30.348,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 6 06:05:50.09 UTC">
+                <name>M 5.3 - 2012 Mar 6, STATE OF YAP, MICRONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>140.306,10.527,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 8 20:03:17.23 UTC">
+                <name>M 5.3 - 2012 Mar 8, MINDORO, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>120.519,13.57,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 10 02:26:57.00 UTC">
+                <name>M 5.3 - 2012 Mar 10, TARAPACA, CHILE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-69.25,-19.738,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 11 18:11:09.36 UTC">
+                <name>M 5.3 - 2012 Mar 11, CARLSBERG RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>65.125,3.077,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 11 22:30:26.58 UTC">
+                <name>M 5.3 - 2012 Mar 11, SOUTHERN MID-ATLANTIC RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-16.696,-41.153,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 17 15:49:17.04 UTC">
+                <name>M 5.3 - 2012 Mar 17, CARLSBERG RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>63.465,3.758,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 19 13:42:34.67 UTC">
+                <name>M 5.3 - 2012 Mar 19, NEW GUINEA, PAPUA NEW GUINEA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>143.888,-4.36,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 20 18:22:33.10 UTC">
+                <name>M 5.3 - 2012 Mar 20, OAXACA, MEXICO</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-98.172,16.289,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 23 09:25:14.00 UTC">
+                <name>M 5.3 - 2012 Mar 23, SOUTH AUSTRALIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>131.955,-26.163,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 26 09:30:18.74 UTC">
+                <name>M 5.3 - 2012 Mar 26, CHUKOTKA, RUSSIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-174.648,66.363,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 26 17:48:09.27 UTC">
+                <name>M 5.3 - 2012 Mar 26, EAST OF NORTH ISLAND, N.Z.</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-179.075,-35.689,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Mar 29 00:36:40.36 UTC">
+                <name>M 5.3 - 2012 Mar 29, SOUTHWEST INDIAN RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>44.605,-40.957,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 1 22:23:48.00 UTC">
+                <name>M 5.3 - 2012 Apr 1, GUERRERO, MEXICO</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-98.54,16.46,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 3 10:42:34.27 UTC">
+                <name>M 5.3 - 2012 Apr 3, NEW IRELAND REGION, P.N.G.</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>153.442,-4.397,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 4 20:27:26.39 UTC">
+                <name>M 5.3 - 2012 Apr 4, NEW IRELAND REGION, P.N.G.</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>152.173,-3.824,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 7 11:58:04.80 UTC">
+                <name>M 5.3 - 2012 Apr 7, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>149.555,-6.746,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 8 21:43:30.90 UTC">
+                <name>M 5.3 - 2012 Apr 8, TAIWAN REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>122.35,24,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 09:02:48.10 UTC">
+                <name>M 5.3 - 2012 Apr 11, NORTH INDIAN OCEAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>91.785,1.636,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 09:51:40.14 UTC">
+                <name>M 5.3 - 2012 Apr 11, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>90.299,2.521,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 10:01:18.33 UTC">
+                <name>M 5.3 - 2012 Apr 11, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>90.351,2.483,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 10:21:15.38 UTC">
+                <name>M 5.3 - 2012 Apr 11, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>92.482,2.822,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 11:52:28.64 UTC">
+                <name>M 5.3 - 2012 Apr 11, NORTH INDIAN OCEAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>91.958,1.084,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 13:42:40.26 UTC">
+                <name>M 5.3 - 2012 Apr 11, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>93.584,2.164,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 14:34:17.96 UTC">
+                <name>M 5.3 - 2012 Apr 11, NORTH INDIAN OCEAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>90.833,1.477,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 11 14:54:28.46 UTC">
+                <name>M 5.3 - 2012 Apr 11, NORTH INDIAN OCEAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>91.9,1.276,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 12 20:21:52.91 UTC">
+                <name>M 5.3 - 2012 Apr 12, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>92.746,3.753,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 14 19:31:50.00 UTC">
+                <name>M 5.3 - 2012 Apr 14, SUNDA STRAIT, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>105.444,-6.777,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 14 20:53:55.91 UTC">
+                <name>M 5.3 - 2012 Apr 14, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-25.209,-56.845,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 16 03:27:40.75 UTC">
+                <name>M 5.3 - 2012 Apr 16, GULF OF CALIFORNIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-108.793,23.952,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 16 09:46:27.66 UTC">
+                <name>M 5.3 - 2012 Apr 16, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>92.417,0.798,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 16 18:01:14.94 UTC">
+                <name>M 5.3 - 2012 Apr 16, SULAWESI, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>121.939,-2.58,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 18 19:52:38.96 UTC">
+                <name>M 5.3 - 2012 Apr 18, NEAR N COAST OF PAPUA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>131.909,-0.501,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 19 17:23:39.33 UTC">
+                <name>M 5.3 - 2012 Apr 19, MOLUCCA SEA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.434,1.199,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 25 07:53:21.27 UTC">
+                <name>M 5.3 - 2012 Apr 25, NICOBAR ISLANDS, INDIA REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>93.906,8.945,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Apr 28 18:00:32.88 UTC">
+                <name>M 5.3 - 2012 Apr 28, KEP. MENTAWAI REGION, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>100.439,-3.338,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 3 16:14:16.63 UTC">
+                <name>M 5.3 - 2012 May 3, NEW BRITAIN REGION, P.N.G.</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>152.085,-5.466,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 7 14:15:14.45 UTC">
+                <name>M 5.3 - 2012 May 7, AZERBAIJAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>46.719,41.553,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 12 13:23:15.96 UTC">
+                <name>M 5.3 - 2012 May 12, MOLUCCA SEA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.108,2.241,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 13 01:19:10.01 UTC">
+                <name>M 5.3 - 2012 May 13, SOUTH INDIAN OCEAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>89.416,-3.347,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 13 04:46:05.93 UTC">
+                <name>M 5.3 - 2012 May 13, SULAWESI, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>122.996,-0.115,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 20 08:20:57.95 UTC">
+                <name>M 5.3 - 2012 May 20, OFF EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>143.175,39.619,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 May 23 20:25:58.20 UTC">
+                <name>M 5.3 - 2012 May 23, KURIL ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>152.557,46.66,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 1 12:32:27.69 UTC">
+                <name>M 5.3 - 2012 Jun 1, SOUTHERN XINJIANG, CHINA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>75.194,39.803,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 3 21:00:59.35 UTC">
+                <name>M 5.3 - 2012 Jun 3, SOUTH SANDWICH ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-25.57,-60.562,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 5 11:01:20.00 UTC">
+                <name>M 5.3 - 2012 Jun 5, NORTHERN SUMATRA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>94.672,5.482,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 14 05:52:53.61 UTC">
+                <name>M 5.3 - 2012 Jun 14, TURKEY-SYRIA-IRAQ BORDER REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>42.325,37.294,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 17 17:26:26.94 UTC">
+                <name>M 5.3 - 2012 Jun 17, TONGA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-174.311,-20.588,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 18 08:29:04.44 UTC">
+                <name>M 5.3 - 2012 Jun 18, MENDOZA, ARGENTINA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-68.496,-33.009,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 20 00:41:44.43 UTC">
+                <name>M 5.3 - 2012 Jun 20, NEAR N COAST OF PAPUA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>133.281,-0.727,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jun 28 15:51:58.60 UTC">
+                <name>M 5.3 - 2012 Jun 28, VANUATU</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>166.625,-13.504,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 3 02:31:03.07 UTC">
+                <name>M 5.3 - 2012 Jul 3, NEAR S. COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>139.744,34.934,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 5 08:14:19.29 UTC">
+                <name>M 5.3 - 2012 Jul 5, MINDANAO, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.554,5.126,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 7 00:50:27.02 UTC">
+                <name>M 5.3 - 2012 Jul 7, NORTH ISLAND OF NEW ZEALAND</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>175.807,-39.068,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 9 12:25:47.34 UTC">
+                <name>M 5.3 - 2012 Jul 9, SULAWESI, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>122.791,-0.171,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 11 00:16:10.00 UTC">
+                <name>M 5.3 - 2012 Jul 11, SOLOMON ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>156.275,-8.442,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 18 04:33:59.33 UTC">
+                <name>M 5.3 - 2012 Jul 18, SOUTHERN SUMATRA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>102.794,-4.381,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 18 06:36:48.23 UTC">
+                <name>M 5.3 - 2012 Jul 18, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.073,11.281,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 20 03:40:12.15 UTC">
+                <name>M 5.3 - 2012 Jul 20, KURIL ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>155.599,49.506,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 21 12:46:30.93 UTC">
+                <name>M 5.3 - 2012 Jul 21, BANDA SEA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>129.266,-5.387,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 22 16:56:02.64 UTC">
+                <name>M 5.3 - 2012 Jul 22, TONGA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-175.029,-21.804,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jul 29 22:05:09.17 UTC">
+                <name>M 5.3 - 2012 Jul 29, NEAR EAST COAST OF HONSHU, JAPAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>142.323,39.075,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 4 11:24:15.01 UTC">
+                <name>M 5.3 - 2012 Aug 4, NORTHERN SUMATRA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>96.296,4.857,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 6 03:28:23.11 UTC">
+                <name>M 5.3 - 2012 Aug 6, RYUKYU ISLANDS, JAPAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>130.603,29.487,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 9 11:04:24.90 UTC">
+                <name>M 5.3 - 2012 Aug 9, LOMBOK REGION, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>116.363,-8.718,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 14 12:06:14.86 UTC">
+                <name>M 5.3 - 2012 Aug 14, BONIN ISLANDS, JAPAN REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>142.53,28.718,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 15 17:49:04.60 UTC">
+                <name>M 5.3 - 2012 Aug 15, NORTHWESTERN IRAN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>46.672,38.41,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 22 11:38:19.58 UTC">
+                <name>M 5.3 - 2012 Aug 22, EASTERN NEW GUINEA REG., P.N.G.</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>147.25,-6.047,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 27 17:54:26.13 UTC">
+                <name>M 5.3 - 2012 Aug 27, KEPULAUAN TALAUD, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.698,3.622,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 28 08:53:36.88 UTC">
+                <name>M 5.3 - 2012 Aug 28, OFF COAST OF CENTRAL AMERICA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-88.706,11.978,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 28 15:51:06.75 UTC">
+                <name>M 5.3 - 2012 Aug 28, OFF W COAST OF NORTHERN SUMATRA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>92.986,4.409,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 31 00:35:35.69 UTC">
+                <name>M 5.3 - 2012 Aug 31, CENTRAL MID-ATLANTIC RIDGE</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>-32.155,3.807,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 31 13:14:59.42 UTC">
+                <name>M 5.3 - 2012 Aug 31, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.926,10.562,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Aug 31 18:38:55.08 UTC">
+                <name>M 5.3 - 2012 Aug 31, GULF OF ADEN</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>50.47,13.239,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 1 00:25:02.67 UTC">
+                <name>M 5.3 - 2012 Sep 1, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.45,10.229,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 4 00:50:53.04 UTC">
+                <name>M 5.3 - 2012 Sep 4, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.888,10.423,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 4 06:43:01.00 UTC">
+                <name>M 5.3 - 2012 Sep 4, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.778,10.666,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 4 06:54:59.71 UTC">
+                <name>M 5.3 - 2012 Sep 4, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.827,10.634,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 4 14:43:17.98 UTC">
+                <name>M 5.3 - 2012 Sep 4, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.896,10.501,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 5 00:35:30.45 UTC">
+                <name>M 5.3 - 2012 Sep 5, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.711,11.596,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 6 02:22:20.12 UTC">
+                <name>M 5.3 - 2012 Sep 6, KEPULAUAN TALAUD, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.879,4.499,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 7 04:16:30.49 UTC">
+                <name>M 5.3 - 2012 Sep 7, SICHUAN-YUNNAN-GUIZHOU RG, CHINA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>104.007,27.572,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 7 12:30:31.66 UTC">
+                <name>M 5.3 - 2012 Sep 7, HALMAHERA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>128.238,2.461,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 11 14:21:36.29 UTC">
+                <name>M 5.3 - 2012 Sep 11, SOUTH OF JAVA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>113.832,-10.705,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 15 10:26:25.96 UTC">
+                <name>M 5.3 - 2012 Sep 15, SAMAR, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>125.468,12.556,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 15 17:35:40.98 UTC">
+                <name>M 5.3 - 2012 Sep 15, SOUTH OF JAVA, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>113.883,-10.738,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 16 21:46:18.87 UTC">
+                <name>M 5.3 - 2012 Sep 16, PHILIPPINE ISLANDS REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.723,10.624,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 20 20:47:46.61 UTC">
+                <name>M 5.3 - 2012 Sep 20, KEPULAUAN BATU, INDONESIA</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>98.817,-0.065,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 20 21:21:05.44 UTC">
+                <name>M 5.3 - 2012 Sep 20, MINDANAO, PHILIPPINES</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>126.381,5.998,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 23 06:40:57.74 UTC">
+                <name>M 5.3 - 2012 Sep 23, FIJI REGION</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>175.174,-16.93,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Sep 23 23:42:27.14 UTC">
+                <name>M 5.3 - 2012 Sep 23, SOUTH OF MARIANA ISLANDS</name>
+                <magnitude>5.3</magnitude>
+                <Point>
+                    <coordinates>143.25,11.705,0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
